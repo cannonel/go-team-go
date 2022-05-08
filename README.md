@@ -19,9 +19,9 @@ In the computer's terminal, run the command "node app" to access the team-profil
  prompted with questions. After answering the required prompts, the generator will dynamically create your HTML file i the dist folder of the application.
 
 ## Video walkthrough of app 
-[Link to video] 
+[Link to video] https://drive.google.com/file/d/1fn7BoVwb4jTgxs7ve8MmdE_nmn-1kPd9/view
 
-<img src=""
+<img src="utils/go-gif.gif">
 
 ## Contributing
 Erika Cannon
